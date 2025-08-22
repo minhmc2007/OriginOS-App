@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
                 WebViewScreen("https://quandz24-ui.github.io/OriginOS_web/")
             }
         }
-        Toast.makeText(this, "apk by minhmc2007", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "apk by minhmc2007 tiktok: Minh | SS A04S Hype", Toast.LENGTH_SHORT).show()
     }
 }
 
